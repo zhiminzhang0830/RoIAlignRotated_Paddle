@@ -1,0 +1,4 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+mmcv_roi_align_rotated/
+roi_align_rotated_test.py
